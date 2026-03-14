@@ -1,23 +1,19 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+As a backend developer, I am focused on mastering the foundational elements of the Java ecosystem. My goal with this project is to establish a streamlined development workflow—from local environment configuration to remote repository management—ensuring a solid base for building more complex, scalable applications in the future.This software is a classic "Hello World" application written in Java. It serves as a diagnostic tool to verify that the Java Development Kit (JDK) and the integrated development environment are correctly configured and capable of compiling and executing code.I created this software to practice the end-to-end process of initializing a project, managing version control with Git, and documenting technical specifications in a professional manner.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* **Visual Studio Code:** My primary IDE, configured with the "Extension Pack for Java" for compiling and debugging.
+* **Git & GItHub:** Used for version control and remote hosting of the source code.
+* **Java Development Kit (JDK):** The runtime and development environment used to execute the code.
 
-{Describe the programming language that you used}
+{I used the **Java** programming language for this project due to its robustness in backend systems and its strong object-oriented principles}.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Oracle Java Documentation](https://docs.oracle.com/en/java/)
+* [Markdown Guide Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  
